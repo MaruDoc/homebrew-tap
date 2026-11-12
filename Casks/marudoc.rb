@@ -1,6 +1,6 @@
 cask "marudoc" do
-  version "1.0.5"
-  sha256 "41137db1bc749a923ed6fb355d5efaaf81ab4564fcabe2440c551ea00e019a62"
+  version "1.0.6"
+  sha256 "c276e2a5122d28a90c7d8c5b21b0c58dfc63bc7ff50ecfc5999ed253914933d3"
 
   url "https://github.com/MaruDoc/marudoc/releases/download/v#{version}/MaruDoc-#{version}.dmg"
   name "MaruDoc"
